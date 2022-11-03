@@ -18,8 +18,32 @@ I'm a particle physics student working on the ATLAS experiment at the Large Hadr
 
 **What I Know and What I Do**
 
-<img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/68130081/147861441-417743b8-2f05-4fa5-8637-66ff53670ace.png" />    <img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/68130081/147861627-9e5a46b8-12cf-457c-8133-34ae55a8718a.png" />    <img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/68130081/147861642-4e722dcc-46e1-493e-8f23-9617ad676dc7.png" />  <img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/68130081/147861654-7c1c8e11-0709-4393-b29f-099b40cb1270.png" />   <img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/68130081/199774439-c1bd4fd7-e9dc-43f5-9989-5e9f10fb519d.png"/> <img alt="alt_text" width="60px" src="https://user-images.githubusercontent.com/68130081/199776353-f0654232-d4ad-4c84-b4f5-1afab7b8fdd9.png" />
+<img alt="alt_text" width="50px"
+src="https://user-images.githubusercontent.com/68130081/147861441-417743b8-2f05-4fa5-8637-66ff53670ace.png"
+/>   
+ <img alt="alt_text" width="50px"
+ src="https://user-images.githubusercontent.com/68130081/147861627-9e5a46b8-12cf-457c-8133-34ae55a8718a.png"
+ />    
+ <img alt="alt_text" width="50px"
+ src="https://user-images.githubusercontent.com/68130081/147861642-4e722dcc-46e1-493e-8f23-9617ad676dc7.png"
+ /> 
+  <img alt="alt_text" width="50px"
+  src="https://user-images.githubusercontent.com/68130081/147861654-7c1c8e11-0709-4393-b29f-099b40cb1270.png"
+  /> 
+<img alt="alt_text" width="50px"
+src="https://user-images.githubusercontent.com/68130081/199774439-c1bd4fd7-e9dc-43f5-9989-5e9f10fb519d.png"/>
+ <img alt="alt_text" width="50px" src="https://user-images.githubusercontent.com/68130081/199776353-f0654232-d4ad-4c84-b4f5-1afab7b8fdd9.png" />
 
+
+ <img alt="alt_text" width="50px" src="https://github.com/els285/els285/blob/main/images/1200px-Keras_logo.svg.png" />
+ 
+ <img alt="alt_text" width="50px" src="https://github.com/els285/els285/blob/main/images/Tensorflow_logo.svg.png" />
+
+ <img alt="alt_text" width="50px" src="https://github.com/els285/els285/blob/main/images/1200px-Pandas_mark.svg.png" />
+ 
+ <img alt="alt_text" width="50px" src="hhttps://github.com/els285/els285/blob/main/images/Created_with_Matplotlib-logo.svg.png" />
+ 
+ <img alt="alt_text" width="50px" src="hhttps://github.com/els285/els285/blob/main/images/5847f981cef1014c0b5e48be.png" />
      
 My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
 
