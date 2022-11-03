@@ -34,7 +34,7 @@ src="https://user-images.githubusercontent.com/68130081/147861441-417743b8-2f05-
 My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=els285)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--Find me on [LinkedIn](https://www.linkedin.com/in/ethan-simpson-986215a7/)
