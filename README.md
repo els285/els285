@@ -35,7 +35,7 @@ My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimps
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=els285)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=els285)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--Find me on [LinkedIn](https://www.linkedin.com/in/ethan-simpson-986215a7/)
 
@@ -61,4 +61,4 @@ Here are some ideas to get you started:
 -->
 <!-- <p><img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=ethansimpson285&show_icons=true&locale=en&layout=compact&theme=dark" alt="ethansimpson285" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethansimpson285&show_icons=true&locale=en" alt="ethansimpson285" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ethansimpson285&show_icons=true&locale=en" alt="ethansimpson285" /></p> --> 
