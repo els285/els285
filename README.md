@@ -14,6 +14,7 @@ I'm a particle physics student working on the ATLAS experiment at the Large Hadr
 <p float="left">
      <img alt="alt_text" width="300px" src="https://user-images.githubusercontent.com/68130081/147861228-f0680d4b-599b-49e3-9afc-c8b58910ed6a.png" />
      <img alt="alt_text" width="150px" src="https://user-images.githubusercontent.com/68130081/169854163-2ced4257-b539-4946-a1cd-06eac7ce0d81.jpg" />
+          <img alt="alt_text" width="150px" src="https://github.com/els285/els285/blob/main/images/3b362238-636b-4ec7-86d0-619e3836dcd1.jpg" />
 </p>
 
 **What I Know and What I Do**
