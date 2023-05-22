@@ -4,7 +4,7 @@
 [<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/68130081/147861455-606c2c56-a427-4abc-90b3-94453dd4b183.png" />](https://stackoverflow.com/users/16390696/ethan-simpson)
 
 
-Personal website here: https://els285.github.io/ethansimpson/
+Personal website here: https://els285.github.io
 
 **About**
 I hail from Scotland and am based in Geneva, Switzerland.
