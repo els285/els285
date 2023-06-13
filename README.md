@@ -4,12 +4,14 @@
 [<img alt="alt_text" width="40px" src="https://user-images.githubusercontent.com/68130081/147861455-606c2c56-a427-4abc-90b3-94453dd4b183.png" />](https://stackoverflow.com/users/16390696/ethan-simpson)
 
 
-Personal website here: https://els285.github.io
-
 **About**
-I hail from Scotland and am based in Geneva, Switzerland.
+I have recently return to Scotland, having previously been based in Geneva, Swizterland.
 
-I'm a particle physics student working on the ATLAS experiment at the Large Hadron Collider (CERN), where I use write software for ATLAS and undertake data analysis on the heaviest (known) particle in the universe!
+I'm a particle physics researcher, working on the ATLAS experiment at the Large Hadron Collider (CERN), where I use write software for ATLAS and undertake data analysis on the heaviest (known) particle in the universe! 
+As my PhD approaches its conclusion, I am actively seeking exciting research and career opportunities. Please reach out if interested...
+
+Visit my personal website for further insights on my credentials, research and interests:
+[Personal Website](www.els285.github.io)
 
 <p float="left">
      <img alt="alt_text" width="200px" src="https://user-images.githubusercontent.com/68130081/169854163-2ced4257-b539-4946-a1cd-06eac7ce0d81.jpg" />
