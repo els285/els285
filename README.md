@@ -19,7 +19,7 @@ Visit my personal website for further insights on my credentials, research and i
           <img alt="alt_text" width="200px" src="https://github.com/els285/els285/blob/main/images/3b362238-636b-4ec7-86d0-619e3836dcd1.jpg" />
 </p>
 
-**What I Know and What I Do**
+**Technical Expertise**
 
 <img alt="alt_text" width="50px"
 src="https://user-images.githubusercontent.com/68130081/147861441-417743b8-2f05-4fa5-8637-66ff53670ace.png"
@@ -44,6 +44,11 @@ My physics research includes:
 * Measurements of quantum information at the LHC!
 * Deep learning techniques for fast particle detector simulation.
 * Probing the Standard Model Effective Field Theory using top-quark measurements.
+
+Currently also interested in:
+* Geometric machine learning techniques
+* Building data-scientific and scientific tools using Python, Julia and C++.
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=els285)](https://github.com/anuraghazra/github-readme-stats)
