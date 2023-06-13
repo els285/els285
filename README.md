@@ -41,7 +41,8 @@ My ATLAS work is stored in the ATLAS GitLab [found here](https://gitlab.cern.ch/
 
 My physics research includes:
 * Phenomenology and measurement of spin properties of the top-quark in collider experiments.
-    Read about our work in the ttZ channel [here](https://arxiv.org/ftp/arxiv/papers/2106/2106.09690.pdf).
+    
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Read about our work in the ttZ channel [here](https://arxiv.org/ftp/arxiv/papers/2106/2106.09690.pdf).
 * Measurements of quantum information at the LHC!
 * Deep learning techniques for fast particle detector simulation.
 * Probing the Standard Model Effective Field Theory using top-quark measurements.
