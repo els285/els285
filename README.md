@@ -11,7 +11,7 @@ I'm a particle physics researcher, working on the ATLAS experiment at the Large 
 As my PhD approaches its conclusion, I am actively seeking exciting research and career opportunities. Please reach out if interested...
 
 Visit my personal website for further insights on my credentials, research and interests:
-[Personal Website](www.els285.github.io)
+[www.els285.github.io](https://els285.github.io/))
 
 <p float="left">
      <img alt="alt_text" width="200px" src="https://user-images.githubusercontent.com/68130081/169854163-2ced4257-b539-4946-a1cd-06eac7ce0d81.jpg" />
