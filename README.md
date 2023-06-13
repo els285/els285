@@ -11,7 +11,7 @@ I'm a particle physics researcher, working on the ATLAS experiment at the Large 
 As my PhD approaches its conclusion, I am actively seeking exciting research and career opportunities. Please reach out if interested...
 
 Visit my personal website for further insights on my credentials, research and interests:
-[www.els285.github.io](https://els285.github.io/))
+[www.els285.github.io](https://els285.github.io/)
 
 <p float="left">
      <img alt="alt_text" width="200px" src="https://user-images.githubusercontent.com/68130081/169854163-2ced4257-b539-4946-a1cd-06eac7ce0d81.jpg" />
@@ -37,7 +37,13 @@ src="https://user-images.githubusercontent.com/68130081/147861441-417743b8-2f05-
 
 **What I Know and What I Do**     
      
-My ATLAS work is stored in the ATLAS gitlab [here](https://gitlab.cern.ch/esimpson)
+My ATLAS work is stored in the ATLAS GitLab [found here](https://gitlab.cern.ch/esimpson)
+
+My physics research includes:
+* Phenomenology and measurement of spin properties of the top-quark in collider experiments.
+* Measurements of quantum information at the LHC!
+* Deep learning techniques for fast particle detector simulation.
+* Probing the Standard Model Effective Field Theory using top-quark measurements.
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=els285)](https://github.com/anuraghazra/github-readme-stats)
